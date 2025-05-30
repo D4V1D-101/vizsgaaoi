@@ -1,0 +1,50 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "age": 30,
+        "salary": 75000.50,
+        "is_active": true,
+        "birth_date": "1994-05-15",
+        "last_login_at": "2024-01-20 14:30:00",
+        "bio": "Software developer passionate about Laravel",
+        "preferences": {
+            "theme": "dark",
+            "notifications": true,
+            "language": "en"
+        },
+        "role": "admin"
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "age": 28,
+        "salary": 65000.00,
+        "is_active": true,
+        "birth_date": "1996-08-22",
+        "last_login_at": "2024-01-19 09:15:00",
+        "bio": "Content writer and blogger",
+        "preferences": {
+            "theme": "light",
+            "notifications": false,
+            "language": "en"
+        },
+        "role": "user"
+    },
+    {
+        "name": "Mike Johnson",
+        "email": "mike@example.com",
+        "age": 35,
+        "salary": 85000.75,
+        "is_active": false,
+        "birth_date": "1989-12-10",
+        "last_login_at": null,
+        "bio": null,
+        "preferences": {
+            "theme": "dark",
+            "notifications": true,
+            "language": "hu"
+        },
+        "role": "moderator"
+    }
+]
